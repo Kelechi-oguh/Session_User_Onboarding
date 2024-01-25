@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session_User_Onboarding", "Session_User_Onboarding\Session_User_Onboarding.csproj", "{D580740A-8382-4926-815E-9D447C67DFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D580740A-8382-4926-815E-9D447C67DFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D580740A-8382-4926-815E-9D447C67DFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D580740A-8382-4926-815E-9D447C67DFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D580740A-8382-4926-815E-9D447C67DFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2B0724-5E20-401D-BF31-D3C5DCEE98E0}
+	EndGlobalSection
+EndGlobal
